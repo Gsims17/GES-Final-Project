@@ -4,6 +4,7 @@
 Hello I am a senior economics student at the University of Missouri - Columbia
 
 ##Navigation:
-*[Skills]
-*[Code Sample]
-*[About Me/Interests]
+*[Skills](./Skills.md)
+*[Code Sample](Code_Sample.md)
+*[About Me/Interests](About_Me/Interests.md)
+
