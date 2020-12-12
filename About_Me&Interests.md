@@ -9,7 +9,7 @@ I enjoy spending my free time playing guitar, reading and playing video games as
 
 My favorite professional sports teams are Atlanta United as well as the Atlanta Falcons.
 
-![Atlanta United](
+![Atlanta United](1200px-Atlanta_MLS.svg.png)
 
 ![Atlanta Falcons](
 
