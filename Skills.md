@@ -1,4 +1,4 @@
-#Skills
+#**Skills**
 
 ##Educational Skills
 1. Calculus
